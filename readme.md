@@ -10,5 +10,5 @@
 ![alt text](image-2.png)
 
 ## 2.4 Realizar documentacion markdown
-[Ejercicio 1](https://github.com/jnjgvr/repo01)
+[Ejercicio 1](https://github.com/jnjgvr/repo01)  
 ![alt text](image-4.png)
